@@ -18,6 +18,10 @@ Place best.pt in the model/ directory
 Input Video
 Place your input video in the assets/ folder and update VIDEO_PATH accordingly.
 
+Demo video
+https://youtu.be/whaXXtnC1qs (reid inference)
+
+https://youtu.be/whaXXtnC1qs (bytetrack inference)
 python main.py
 
 The script will:
